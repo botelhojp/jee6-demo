@@ -1,0 +1,1 @@
+This project proposes to use JEE6 latest technologies to build a 3-tiers application. This can be used to teach JEE6. My [blog](http://hostettler.github.com) heavily relies on this project to not having to provide the complete code for the examples.
